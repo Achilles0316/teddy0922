@@ -67,14 +67,22 @@
 
 <br>
 
+![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=anuraghazra&column=9&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=teddy0922&theme=tokyonight" alt="mystreak"/>
+</p>
+
+  
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 
 <div align="center">
+
 <a href="https://github.com/teddy0922/">
-  <img src="https://github-readme-stats.vercel.app/api?username=teddy0922&include_all_commits=true&count_private=false&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=teddy0922&hide_progress=true&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="teddy"/>
+	<img src="https://github-readme-stats.vercel.app/api?username=teddy0922&show_icons=true&hide=prs,issues&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=teddy0922&hide_progress=true&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="teddy"/>
 </a>
 </div>
 
